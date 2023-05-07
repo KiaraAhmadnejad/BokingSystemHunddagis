@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa76c79-f4dc-4a92-a103-dab97346de7b" name="Changes" comment="börjat med kod">
+    <list default="true" id="9aa76c79-f4dc-4a92-a103-dab97346de7b" name="Changes" comment="fortsatt med koden:där man ställer frågor till kunden om bokningen de ska göra">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bokning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bokning.java" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681722247901</updated>
-      <workItem from="1681722249385" duration="6230000" />
+      <workItem from="1681722249385" duration="14221000" />
     </task>
     <task id="LOCAL-00001" summary="börjat med kod">
       <created>1682324938182</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682324938182</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fortsatt med koden:där man ställer frågor till kunden om bokningen de ska göra">
+      <created>1682327054621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682327054621</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="påbörjat koden till slutprojektet" />
     <MESSAGE value="börjat med kod" />
-    <option name="LAST_COMMIT_MESSAGE" value="börjat med kod" />
+    <MESSAGE value="fortsatt med koden:där man ställer frågor till kunden om bokningen de ska göra" />
+    <option name="LAST_COMMIT_MESSAGE" value="fortsatt med koden:där man ställer frågor till kunden om bokningen de ska göra" />
   </component>
 </project>
